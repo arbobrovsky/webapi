@@ -1,0 +1,2 @@
+C:\Git\Change\ChangeClient\vueapp\obj\Debug\vueapp.esproj.SuggestedBindingRedirects.cache
+C:\Git\Change\ChangeClient\vueapp\obj\Debug\vueapp.esproj.CoreCompileInputs.cache
